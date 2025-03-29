@@ -1,0 +1,13 @@
+*,
+.html {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  background-color: green;
+  height: 3vh;
+}
+.bawah {
+  background-color: green;
+  height: 3vh;
+}

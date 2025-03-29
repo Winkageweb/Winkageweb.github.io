@@ -1,0 +1,109 @@
+*,
+.html {
+  padding: 0;
+  margin: 0;
+}
+.body {
+  background-color: lightgreen;
+}
+.container {
+  background-color: green;
+  height: 3vh;
+}
+.bawah {
+  background-color: green;
+  height: 3vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 10px;
+}
+.content {
+  height: 94vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inti {
+  border-radius: 15px;
+  background-color: white;
+  height: 40vh;
+  width: 40vh;
+  box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+}
+.namainti {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  font-size: 20px;
+}
+.teks {
+  color: white;
+  border:5px solid green;
+  list-style-type: none;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 5;
+  background-color: green;
+}
+.namainti2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  font-size: 10px;
+}
+  .teks2 {
+  color: white;
+  border:5px solid white;
+  list-style-type: none;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 5;
+  background-color: white;
+  }
+  .inti1 {
+  border-radius: 15px;
+  background-color: white;
+  height: 60vh;
+  width: 40vh;
+  box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+.namainti01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  font-size: 20px;
+}
+  .namainti001 {
+  padding: 20;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  }
+  .tiktok {
+    display: flex;
+    text-decoration: none;
+    background-color: ;
+  }
+  .tiktok1 {
+    display: flex;
+    text-decoration: none;
+    color: black;
+  }
+  .toutube {
+    display: flex;
+    text-decoration: none;
+    color: black;
+  }
+  .ig {
+    display: flex;
+    text-decoration: none;
+    color: black;
+  }
